@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Annix48/goit-react-hw-02-feedback.git/static/css/main.5073b78a.css",
-    "main.js": "/Annix48/goit-react-hw-02-feedback.git/static/js/main.972afa25.js",
-    "index.html": "/Annix48/goit-react-hw-02-feedback.git/index.html",
-    "main.5073b78a.css.map": "/Annix48/goit-react-hw-02-feedback.git/static/css/main.5073b78a.css.map",
-    "main.972afa25.js.map": "/Annix48/goit-react-hw-02-feedback.git/static/js/main.972afa25.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.5073b78a.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.972afa25.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.5073b78a.css.map": "/goit-react-hw-02-feedback/static/css/main.5073b78a.css.map",
+    "main.972afa25.js.map": "/goit-react-hw-02-feedback/static/js/main.972afa25.js.map"
   },
   "entrypoints": [
     "static/css/main.5073b78a.css",
